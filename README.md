@@ -1,8 +1,8 @@
 # D2LOD-AttackRatingBoost
-A Diablo 2 LOD mod (Lord of Destruction version 1.14D) which boosts attack rating of melee attacks for both your character and mercenaries.
+A Diablo 2 LOD mod (Lord of Destruction version 1.14D) which boosts attack rating of melee attacks for both your characters and mercenaries.
 
 ## How to install
-Download mod files.
+Download mod files by clicking on "<> Code" then "Download ZIP" at top right.
 
 Go in your D2LOD installation directory and copy "data" directory previously downloaded (with all its content).
 
@@ -10,8 +10,8 @@ Create a link to "Diablo II.exe", name it "Diablo II.exe - ARBoost mod" or a nam
 
 Backup your save files for safety.
 
-Start the game by clicking on the custom link created, enjoy!
+Start the game by clicking on the custom link you just did, enjoy!
 
 This mod is compatible with your save files and is offline only.
 
-It was created thanks to the guides of user HighTechLowIQ: https://github.com/HighTechLowIQ
+It was created thanks to user HighTechLowIQ's guides: https://github.com/HighTechLowIQ
