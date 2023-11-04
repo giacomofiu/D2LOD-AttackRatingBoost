@@ -4,7 +4,7 @@ A Diablo 2 LOD mod (Lord of Destruction version 1.14D) which boosts attack ratin
 ## How to install
 Download mod files by clicking on "<> Code" then "Download ZIP" at top right.
 
-Go in your D2LOD installation directory and copy "data" directory previously downloaded (with all its content).
+Go in your D2LOD installation directory, extract and copy "data" directory (with all its content) from zip file previously downloaded.
 
 Create a link to "Diablo II.exe", name it "Diablo II.exe - ARBoost mod" or a name you like then go to the link properties with right mouse click on it and in Target section at the end of the path add a white space and write: "-direct -txt" without quotes.
 
